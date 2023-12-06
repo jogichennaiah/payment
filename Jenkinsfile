@@ -2,5 +2,5 @@
 
 env.COMPONENT="payment"
 env.APPTYPE="python"
-env.NEXUS_URL="172.31.81.211"
+env.NEXUS_URL="172.31.18.27"
 python()
